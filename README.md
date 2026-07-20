@@ -1,14 +1,10 @@
 <div align="center">
 
-# Thirumalai Siddhan R
+# Hi, I'm Thirumalai Siddhan R
 
-**Computer Science Engineering Student &nbsp;|&nbsp; Aspiring Java Full Stack Developer**
+### Computer Science Engineering Student &nbsp;|&nbsp; Aspiring Java Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F80ED&center=true&vCenter=true&width=560&lines=Java+%7C+MySQL+%7C+React;Building+Real-World+Applications;Learning+Spring+Boot+%26+DSA" alt="Typing SVG" />
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rthirumalaisiddhan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thirumalaisiddhan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thirumalaisiddhan)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Java+%7C+MySQL+%7C+React;Backend+Development+Enthusiast;Learning+Spring+Boot+%26+REST+APIs;Building+Real-World+Projects" alt="Typing SVG" />
 
 </div>
 
@@ -16,80 +12,86 @@
 
 ## About Me
 
-I am a Computer Science Engineering student passionate about software development, backend technologies, and problem-solving. I enjoy building real-world applications, learning new technologies, and continuously improving my programming skills.
-
-- Bachelor of Engineering in Computer Science and Engineering — CGPA: 7.91
-- Focused on Java full stack development
-- Comfortable across the stack: Java on the backend, React/HTML/CSS/JS on the frontend, MySQL for data
-- Motivated to grow through consistent practice and hands-on projects
+- Computer Science Engineering student
+- Aspiring Java Full Stack Developer
+- Passionate about backend development
+- Learning Spring Boot and REST APIs
+- Interested in problem solving and software development
 
 <br>
 
-## Currently Learning
+## Portfolio & Social Links
 
-`Spring Boot` &nbsp;•&nbsp; `REST APIs` &nbsp;•&nbsp; `Data Structures & Algorithms`
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thirumalaisiddhan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thirumalaisiddhan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rthirumalaisiddhan@gmail.com)
+
+</div>
 
 <br>
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,py&theme=dark" alt="Programming" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend" /><br>
+<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Backend" /><br>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
 
-**Frontend**
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<sub align="center">
 
-**Database**
+Backend: JDBC · Spring Boot (Learning) &nbsp;&nbsp;|&nbsp;&nbsp; Tools: Git, GitHub, VS Code, Power BI
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+</sub>
 
-**Tools**
+<br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+## Currently Working On
+
+- Java Full Stack Development
+- Spring Boot
+- REST APIs
+- Data Structures & Algorithms
+- Building real-world projects
 
 <br>
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**ATM Simulator System**
+### ATM Simulator System
 
-Desktop banking application built with Java Swing and JDBC.
+**Tech:** Java Swing · JDBC · MySQL
 
-`Java` `Java Swing` `JDBC` `MySQL`
-
-- Login authentication
-- Deposit / Withdraw / Fast Cash
-- Balance enquiry & mini statement
-- PIN change
-- CRUD operations on relational tables
+**Features**
+- Authentication
+- Deposit
+- Withdrawal
+- Fast Cash
+- Mini Statement
 
 </td>
 <td width="50%" valign="top">
 
-**E-Commerce Website**
+### E-Commerce Website
 
-Responsive storefront built with vanilla HTML, CSS, and JavaScript.
+**Tech:** HTML · CSS · JavaScript
 
-`HTML` `CSS` `JavaScript`
-
-- Product search
-- Price filtering
-- Shopping cart
+**Features**
+- Shopping Cart
 - Wishlist
-- Responsive design
+- Product Search
+- Responsive UI
 
 </td>
 </tr>
@@ -110,33 +112,22 @@ Responsive storefront built with vanilla HTML, CSS, and JavaScript.
 
 <br>
 
-## Trophies
+## GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thirumalaisiddhan&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thirumalaisiddhan&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
 <br>
 
-## Contribution Graph
+## Visitor Stats
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thirumalaisiddhan/thirumalaisiddhan/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-
-</div>
-
-<br>
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thirumalaisiddhan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rthirumalaisiddhan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thirumalaisiddhan)
+![Profile Views](https://komarev.com/ghpvc/?username=thirumalaisiddhan&style=flat-square&color=2F80ED&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/thirumalaisiddhan?style=flat-square&label=Followers&color=2F80ED)
 
 </div>
 
@@ -144,7 +135,7 @@ Responsive storefront built with vanilla HTML, CSS, and JavaScript.
 
 <div align="center">
 
-> "The expert in anything was once a beginner."
+> Code. Learn. Improve. Repeat.
 
 </div>
 
@@ -153,5 +144,5 @@ Responsive storefront built with vanilla HTML, CSS, and JavaScript.
 ---
 
 <div align="center">
-<sub>Thanks for visiting my profile — always open to feedback, collaboration, and internship opportunities.</sub>
+<sub>Thanks for visiting my profile.</sub>
 </div>
