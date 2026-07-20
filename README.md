@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/-rthirumalaisiddhan%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rthirumalaisiddhan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/thirumalaisiddhan)
 
 </div>
 
@@ -52,8 +52,8 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **[ATM Simulation System](https://github.com/YOUR_GITHUB_USERNAME/atm-simulation-system)** | Desktop banking application with PIN-based authentication, deposit, withdrawal, fast cash, mini statement, balance enquiry, PIN change, and multi-step signup with auto-generated card numbers/PINs | Java, Java Swing, JDBC, MySQL |
-| **[E-Commerce Website](https://github.com/YOUR_GITHUB_USERNAME/ecommerce-website)** | Responsive Flipkart-style storefront with category browsing, live product search, price filtering, and a full shopping cart with wishlist and dynamic order summary | HTML, CSS, JavaScript |
+| **[ATM Simulation System](https://github.com/thirumalaisiddhan/atm-simulation-system)** | Desktop banking application with PIN-based authentication, deposit, withdrawal, fast cash, mini statement, balance enquiry, PIN change, and multi-step signup with auto-generated card numbers/PINs | Java, Java Swing, JDBC, MySQL |
+| **[E-Commerce Website](https://github.com/thirumalaisiddhan/ecommerce-website)** | Responsive Flipkart-style storefront with category browsing, live product search, price filtering, and a full shopping cart with wishlist and dynamic order summary | HTML, CSS, JavaScript |
 
 ---
 
@@ -61,10 +61,10 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=thirumalaisiddhan&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thirumalaisiddhan&layout=compact&theme=default" alt="Top Languages" height="165" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=thirumalaisiddhan&theme=default" alt="GitHub Streak" />
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=thirumalaisiddhan&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -85,7 +85,7 @@
 <div align="center">
 
 <!-- Snake animation: see setup note below -->
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/thirumalaisiddhan/thirumalaisiddhan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -115,6 +115,6 @@ Built an interactive Sales and Revenue Tracking Dashboard through end-to-end dat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rthirumalaisiddhan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thirumalaisiddhan)
 
 </div>
